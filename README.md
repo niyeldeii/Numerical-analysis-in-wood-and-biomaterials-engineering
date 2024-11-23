@@ -1,19 +1,7 @@
 # Numerical Analysis Notes
 
-\
 
 This repository contains a collection of notes and MATLAB implementations related to **Numerical Analysis** for **Wood Engineering and Biomaterials Engineering**. The focus is on solving mathematical problems and models commonly encountered in the fields of bioenergy, material science, and engineering using iterative and numerical methods.
-
-The repository includes various methods and examples including:
-
-- **Jacobi Method**
-- **Gauss-Seidel Method**
-- **Successive Over-Relaxation (SOR) Method**
-- **Newton's Method**
-- **Runge-Kutta Methods**
-- **Gaussian Elimination**
-- **LU Decomposition**
-- **Cramer's Rule**
 
 
 ## Purpose
