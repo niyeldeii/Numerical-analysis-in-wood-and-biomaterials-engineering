@@ -8,7 +8,7 @@ This repository contains a collection of notes and MATLAB implementations relate
 
 👉 [**Numerical Analysis in Wood and Biomaterials Engineering**](https://rabbilearn.me/Numerical-analysis-in-wood-and-biomaterials-engineering/)  
 
-Click the link above to explore the **interactive notebook** showcasing the methods and examples implemented in MATLAB, with accompanying explanations and visualizations.
+Click the link above to explore the **interactive notebook** showcasing the methods and examples implemented in MATLAB
 
 ---
 
