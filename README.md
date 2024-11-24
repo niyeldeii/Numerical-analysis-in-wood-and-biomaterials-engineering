@@ -4,6 +4,14 @@
 This repository contains a collection of notes and MATLAB implementations related to **Numerical Analysis** for **Wood Engineering and Biomaterials Engineering**. The focus is on solving mathematical problems and models commonly encountered in the fields of bioenergy, material science, and engineering using iterative and numerical methods.
 
 
+## **📘 View the Notebook Online**
+
+👉 [**Numerical Analysis in Wood and Biomaterials Engineering**](https://rabbilearn.me/Numerical-analysis-in-wood-and-biomaterials-engineering/)  
+
+Click the link above to explore the **interactive notebook** showcasing the methods and examples implemented in MATLAB, with accompanying explanations and visualizations.
+
+---
+
 ## Purpose
 
 The purpose of this project is to provide practical, step-by-step examples of how these numerical techniques can be applied to real-world problems in the fields of **wood engineering**, **biomaterials**, and **bioenergy**. The methods are demonstrated using MATLAB code, and visualizations are provided for better understanding.
@@ -24,4 +32,6 @@ To run the code in this repository, you'll need:
 
 3. **Energy Yield Estimation in Biomass Processing**
    - Using numerical methods to estimate the energy yield from biomass conversion processes, specifically through differential equations modeling.
+
+4  **Solving Structural Forces and resolution of force**
 
